@@ -36,27 +36,11 @@ https://github.com/HimathPerera/SurgeGlobalInterview.git
 
 ## dependencies Installation
 ```sh
-cd back-end-todos
-```
-After that
-```sh
 npm install
 ```
 
-back to parent directory
-```sh
-cd ..
-```
-
-```sh
-cd back-end-todos
-```
-After that
-```sh
-npm install
-```
-
-### `npm start`
+### Run the code 
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
